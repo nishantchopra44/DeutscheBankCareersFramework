@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Opening the Deutsche Bank careers page",
+        "description": "",
+        "id": "verify-landing-on-deutsche-bank-careers-page;opening-the-deutsche-bank-careers-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I navigate to the Deutsche Bank careers website",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I should be on the careers page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify landing on Deutsche Bank Careers Page",
+    "description": "",
+    "id": "verify-landing-on-deutsche-bank-careers-page",
+    "keyword": "Feature",
+    "uri": "/Users/nishantchopra/eclipse-workspace/DeutscheBankCareersFramework/src/main/java/Features/career_page_verification.feature"
+  }
+]

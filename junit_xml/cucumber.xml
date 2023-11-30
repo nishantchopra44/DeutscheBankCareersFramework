@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+    <testcase classname="Verify landing on Deutsche Bank Careers Page" name="Opening the Deutsche Bank careers page" time="0">
+        <skipped><![CDATA[Given I navigate to the Deutsche Bank careers website.......................undefined
+Then I should be on the careers page........................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
